@@ -177,7 +177,7 @@ export default function Footer() {
               ['globe', 'www.qarnisports.com'],
               ['email', 'qarnisportskt@gmail.com'],
               ['phone', 'Contact: +92 345 6760763'],
-              ['phone', 'WhatsApp: +92 320 8524230'],
+              ['phone', 'WhatsApp: +92 305 2243875'],
               ['map', 'Lahore, Pakistan'],
             ] as const).map(([icon, text]) => (
               <div key={text} className="flex items-center gap-3">

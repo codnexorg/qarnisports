@@ -91,7 +91,7 @@ export default function ServicesPage() {
                 <Icon name="arrow-right" size="xs" />
               </Link>
               <a
-                href="https://wa.me/923208524230"
+                href="https://wa.me/923052243875"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-3 rounded-md border border-[#d9b957]/70 px-7 py-4 text-xs font-black uppercase tracking-[0.14em] text-[#f0d080] transition-all hover:bg-[#d9b957]/10"
